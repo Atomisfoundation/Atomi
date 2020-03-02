@@ -44,7 +44,7 @@ matrix:
 
     - os: osx
       language: cpp
-      osx_image: xcode10.1
+      osx_image: xcode10.3
       # install:
         # - export TZ=Etc/GMT-3
         # - brew update
@@ -75,7 +75,9 @@ matrix:
       #   - OS_FOLDER=mac
       script:
         - export BEAM_WALLET_UI_IN="Beam-Wallet-Masternet-4.2.8260.dmg"
-        - bash notarize.sh
+        - echo "Uploading $BEAM_WALLET_UI_IN to notarization service"
+        - xcrun altool --notarize-app --primary-bundle-id "com.mw.beam.beamwallet" --username "$MACOS_NOTARIZE_USER" --password "$MACOS_NOTARIZE_PASS" --file "$BEAM_WALLET_UI_IN" --verbose
+        # - bash notarize.sh
 
 ###############################################################################
 # Linux Debug
