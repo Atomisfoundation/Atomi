@@ -46,7 +46,7 @@ matrix:
       language: cpp
       osx_image: xcode10.1
       install:
-        - export TZ=Etc/GMT-3
+        # - export TZ=Etc/GMT-3
         # - brew update
         # - brew unlink cmake
         # - brew install cmake
