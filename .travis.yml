@@ -55,21 +55,21 @@ matrix:
         - brew uninstall --ignore-dependencies qt boost
         - curl -O https://raw.githubusercontent.com/Homebrew/homebrew-core/5da5895add2f6b9320d654dd844d4827f6876c8b/Formula/boost.rb
         - brew install ./boost.rb
-        - export OPENSSL_ROOT_DIR="/usr/local/opt/openssl@1.1"
-        - export PATH=/usr/local/qt5-static/bin:$PATH
-        - export QT5_ROOT_DIR="/usr/local/qt5-static"
-        - export QML_IMPORT_PATH="/usr/local/qt5-static/qml"
-        - openssl aes-256-cbc -K $encrypted_1f9ebee66ea9_key -iv $encrypted_1f9ebee66ea9_iv -in macos_cert.enc -out macos_cert.tar -d
-        - tar xvf macos_cert.tar
-        # create custom keychain
-        - security create-keychain -p travis macos-build.keychain
-        - security default-keychain -s macos-build.keychain
-        - security unlock-keychain -p travis macos-build.keychain
-        - security set-keychain-settings -t 3600 -l ~/Library/Keychains/macos-build.keychain
-        # import certificates
-        - security import distkey.p12 -P $MACOS_DISTRIBUTION_KEY_PASSWORD  -k ~/Library/Keychains/macos-build.keychain -T /usr/bin/codesign
-        - security import devapp.cer -k ~/Library/Keychains/macos-build.keychain -T /usr/bin/codesign
-        - security set-key-partition-list -S "apple-tool:,apple:" -s -k travis macos-build.keychain
+        # - export OPENSSL_ROOT_DIR="/usr/local/opt/openssl@1.1"
+        # - export PATH=/usr/local/qt5-static/bin:$PATH
+        # - export QT5_ROOT_DIR="/usr/local/qt5-static"
+        # - export QML_IMPORT_PATH="/usr/local/qt5-static/qml"
+        # - openssl aes-256-cbc -K $encrypted_1f9ebee66ea9_key -iv $encrypted_1f9ebee66ea9_iv -in macos_cert.enc -out macos_cert.tar -d
+        # - tar xvf macos_cert.tar
+        # # create custom keychain
+        # - security create-keychain -p travis macos-build.keychain
+        # - security default-keychain -s macos-build.keychain
+        # - security unlock-keychain -p travis macos-build.keychain
+        # - security set-keychain-settings -t 3600 -l ~/Library/Keychains/macos-build.keychain
+        # # import certificates
+        # - security import distkey.p12 -P $MACOS_DISTRIBUTION_KEY_PASSWORD  -k ~/Library/Keychains/macos-build.keychain -T /usr/bin/codesign
+        # - security import devapp.cer -k ~/Library/Keychains/macos-build.keychain -T /usr/bin/codesign
+        # - security set-key-partition-list -S "apple-tool:,apple:" -s -k travis macos-build.keychain
       env: 
         - BUILD_TYPE=Release
         - OS_FOLDER=mac
