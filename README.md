@@ -7,9 +7,14 @@
 Atomis is a Mimblewimble Swap Currency with Bitcoin & Litecoin Exchange built into Wallet.
 
 
+Whitepaper: https://atomis.org/whitepaper.pdf  
+
+
+
 ### JOIN OUR COMMUNITY!
 
 Discord https://discord.gg/ETsykZF |
+
 
 
 ### FOLLOW ATOMIS..
@@ -17,12 +22,11 @@ Discord https://discord.gg/ETsykZF |
 [twitter](https://twitter.com/AtomisBTC) | [medium](https://medium.com/beam-mw) | [reddit](https://www.reddit.com/r/beamprivacy/) | [bitcointalk](https://bitcointalk.org/index.php?topic=5052151.0) 
 
 
+
 ### GET STARTED
 
 
 Get Atomis binaries: https://atomis.org/#downloads
-
-If you build from source please use 'mainnet' branch\
 
 Peers:
 
@@ -31,67 +35,23 @@ node01.atomis.org:11000
 node02.atomis.org:11000
 
 
-Latest documentation is here: https://documentation.beam.mw
 
-Things that make BEAM special include:
+Why Atomis?
 
-* Users have complete control over privacy - a user decides which information will be available and to which parties, having complete control over his personal data in accordance to his will and applicable laws.
-* Confidentiality without penalty - in BEAM confidential transactions do not cause bloating of the blockchain, avoiding excessive computational overhead or penalty on performance or scalability while completely concealing the transaction value.
-* No trusted setup required
-* Blocks are mined using Equihash Proof-of-Work algorithm.
-* Limited emission using periodic halving.
-* No addresses are stored in the blockchain - no information whatsoever about either the sender or the receiver of a transaction is stored in the blockchain.
-* Superior scalability through compact blockchain size - using the “cut-through” feature of
-Mimblewimble makes the BEAM blockchain orders of magnitude smaller than any other
-blockchain implementation.
-* BEAM supports many transaction types such as escrow transactions, time locked
-transactions, atomic swaps and more.
-* No premine. No ICO. Backed by a treasury, emitted from every block during the first five
-years.
-* Implemented from scratch in C++.
+* We are the first privacy project with a focus on end to end acquistion, trading and storing of your cryptocurrency.
+
+* No ICO. No treasury, and small 1.9% premine for development
+
+* BTC emission schedule with 21mm total supply
+
+* Mimblewimble scalability through efficient blockchain “cut-through” feature 
+
+* Community-orientated and not coroporate or VC backed
+
+* No trusted setup required and privacy by default
 
 
 ### Roadmap
 
-See Beam roadmap for 2019 on https://beam.mw
-
-### Current status
-
-#### Mainnet(January 3rd 2019)
-
-- Fully functional wallet with key generator and storage supporting secure and confidential online transactions.
-- Full node with both transaction and block validation and full UTXO state management.
-- Equihash miner with periodic mining difficulty adjustment.
-- Batch Bulletproofs, the efficient non-interactive zero knowledge range proofs now in batch mode
-- Graphical Wallet Application for Linux, Mac and Windows platforms
-- Offline transactions using Secure BBS system
-- ChainWork - sublinear blockchain validation, based on FlyClient idea by Loi Luu, Benedikt Bünz, Mahdi Zamani
-- Compact history using cut through
-
-#### Agile Atom (February 2019)
-
-- Payment and Exchange APIs
-- Mining Pool APIs
-- Lightning Network position paper
-
-#### Bright Boson 2.0 (March 2019)
-- Payment proof
-- Ultra fast sync
-- Android Mobile wallet
-
-#### Clear Cathode 3.0 (July 2019)
-- PoW change (BeamHash II)
-- Atomic Swaps CLI support
-- Relative Time Locks and Laser Beam support
-
-#### Double Doppler 4.0 (December 2019)
-- Atomic Swaps desktop wallet support
-- Sync mechanism improvements
-
-
-See [How to build](https://github.com/BeamMW/beam/wiki/How-to-build)
-
-# Build status
-[![Build Status](https://travis-ci.org/BeamMW/beam.svg?branch=master)](https://travis-ci.org/BeamMW/beam)
-[![Build status](https://ci.appveyor.com/api/projects/status/0j424l1h61gwqddm/branch/master?svg=true)](https://ci.appveyor.com/project/beam-mw/beam/branch/master)
+Our roadmap is simple. We want to build the most robust decentralized exchange in wallet. We plan to add Ethereum and Bitcoin Cash as next assets to the atomic swaps feature. 
 
