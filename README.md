@@ -1,36 +1,35 @@
 
-![alt text](https://atomis.org/img/core-img/logo.png "Atomis Logo") ATOMIS
+![alt text](https://atomis.org/img/full_logo.png "Atomis Logo")
 
-### Welcome!
+### Welcome Atoms!
 
 
-BEAM is a next generation scalable, confidential cryptocurrency based on an elegant and innovative [Mimblewimble protocol](https://docs.beam.mw/Mimblewimble.pdf).
+Atomis is a Mimblewimble Swap Currency with Bitcoin & Litecoin Exchange built into Wallet.
 
-### JOIN OUR COMMUNITIES ON TELEGRAM
 
-[English](https://t.me/BeamPrivacy) | [Русский](https://t.me/Beam_RU) | [中文](https://t.me/beamchina) | [日本語](https://t.me/beamjp)
+### JOIN OUR COMMUNITY!
 
-### FOLLOW BEAM 
+Discord https://discord.gg/ETsykZF |
 
-[twitter](https://twitter.com/beamprivacy) | [medium](https://medium.com/beam-mw) | [reddit](https://www.reddit.com/r/beamprivacy/) | [gitter](https://gitter.im/beamprivacy/Lobby) | [bitcointalk](https://bitcointalk.org/index.php?topic=5052151.0) | [youtube](https://www.youtube.com/channel/UCddqBnfSPWibf4f8OnEJm_w?)
+
+### FOLLOW ATOMIS..
+
+[twitter](https://twitter.com/AtomisBTC) | [medium](https://medium.com/beam-mw) | [reddit](https://www.reddit.com/r/beamprivacy/) | [bitcointalk](https://bitcointalk.org/index.php?topic=5052151.0) 
 
 
 ### GET STARTED
 
 
-Get Beam binaries here: http://beam.mw/downloads
+Get Atomis binaries: https://atomis.org/#downloads
 
 If you build from source please use 'mainnet' branch\
 
 Peers:
 
-eu-nodes.mainnet.beam.mw:8100
+node01.atomis.org:11000
 
-us-nodes.mainnet.beam.mw:8100
+node02.atomis.org:11000
 
-ap-nodes.mainnet.beam.mw:8100
-
-ap-hk-nodes.mainnet.beam.mw:8100
 
 Latest documentation is here: https://documentation.beam.mw
 
