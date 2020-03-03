@@ -19,7 +19,7 @@ Discord https://discord.gg/ETsykZF |
 
 ### FOLLOW ATOMIS..
 
-[Twitter](https://twitter.com/AtomisBTC) | [Medium](https://medium.com/) | [Bitcointalk](https://bitcointalk.org/) 
+[Twitter](https://twitter.com/AtomisBTC) | [Telegram](https://medium.com/) | [Bitcointalk](https://bitcointalk.org/) 
 
 
 
