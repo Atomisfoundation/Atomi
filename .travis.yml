@@ -74,7 +74,7 @@ matrix:
       #   - BUILD_TYPE=Release
       #   - OS_FOLDER=mac
       script:
-        - export BEAM_WALLET_UI_IN="Beam-Wallet-Masternet-4.2.8260.dmg"
+        - export BEAM_WALLET_UI_IN="Beam-Wallet-Masternet-4.2.8273.dmg"
         - echo "Uploading $BEAM_WALLET_UI_IN to notarization service"
         - xcrun altool --notarize-app --primary-bundle-id "com.mw.beam.beamwallet" --username "$MACOS_NOTARIZE_USER" --password "$MACOS_NOTARIZE_PASS" --file "$BEAM_WALLET_UI_IN" --verbose
         # - bash notarize.sh
