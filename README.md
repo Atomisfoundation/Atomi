@@ -7,7 +7,7 @@
 Atomis is a Mimblewimble Swap Currency with Bitcoin & Litecoin Exchange built into Wallet.
 
 
-Whitepaper: https://atomis.org/whitepaper.pdf  
+Whitepaper: https://atomis.org/whitepaper.pdf (coming soon..)
 
 
 
@@ -19,7 +19,7 @@ Discord https://discord.gg/ETsykZF |
 
 ### FOLLOW ATOMIS..
 
-[twitter](https://twitter.com/AtomisBTC) | [medium](https://medium.com/beam-mw) | [reddit](https://www.reddit.com/r/beamprivacy/) | [bitcointalk](https://bitcointalk.org/index.php?topic=5052151.0) 
+[Twitter](https://twitter.com/AtomisBTC) | [Medium](https://medium.com/) | [Bitcointalk](https://bitcointalk.org/) 
 
 
 
