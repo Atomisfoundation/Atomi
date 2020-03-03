@@ -1,7 +1,7 @@
 
-![alt text](https://atomis.org/img/core-img/logo.png "Atomis Logo")
+![alt text](https://atomis.org/img/core-img/logo.png "Atomis Logo") ATOMIS
 
-### Welcome to Atomis
+### Welcome!
 
 
 BEAM is a next generation scalable, confidential cryptocurrency based on an elegant and innovative [Mimblewimble protocol](https://docs.beam.mw/Mimblewimble.pdf).
