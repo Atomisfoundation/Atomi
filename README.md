@@ -13,13 +13,13 @@ Mimblewimble Whitepaper: https://scalingbitcoin.org/papers/mimblewimble.txt
 
 ### JOIN OUR COMMUNITY!
 
-Discord https://discord.gg/ETsykZF |
+Discord https://discord.gg/ETsykZF
 
 
 
 ### FOLLOW ATOMIS..
 
-[Twitter](https://twitter.com/AtomisBTC) | [Telegram](https://medium.com/) | [Bitcointalk](https://bitcointalk.org/) 
+[Twitter](https://twitter.com/AtomisBTC) | [Bitcointalk](https://bitcointalk.org/) 
 
 
 
