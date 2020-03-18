@@ -6,6 +6,7 @@
 
 Atomis is a Mimblewimble Swap Currency with Bitcoin & Litecoin Exchange built into Wallet.
 
+Atomis Roadmap: https://atomis.org/WalleX.pdf
 
 Mimblewimble Whitepaper: https://scalingbitcoin.org/papers/mimblewimble.txt
 
@@ -34,6 +35,7 @@ node01.atomis.org:11000
 
 node02.atomis.org:11000
 
+node03.atomis.org:11000
 
 
 Why Atomis?
