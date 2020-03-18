@@ -4,12 +4,7 @@
 ### Welcome Atoms!
 
 
-Atomis is a Mimblewimble Swap Currency with Bitcoin & Litecoin Exchange built into Wallet.
-
-Atomis Roadmap: https://atomis.org/WalleX.pdf
-
-Mimblewimble Whitepaper: https://scalingbitcoin.org/papers/mimblewimble.txt
-
+Atomis is a Mimblewimble DeFi Platform with Bitcoin & Litecoin decentralized exchange built into WalleX.
 
 
 ### JOIN OUR COMMUNITY!
@@ -55,5 +50,9 @@ Why Atomis?
 
 ### Roadmap
 
-Our roadmap is simple. We want to build the most robust decentralized exchange in wallet. We plan to add Ethereum and Bitcoin Cash as next assets to the atomic swaps feature. 
+Our roadmap is simple. We want to build the most robust DeFi exchange in wallet. We plan to add Ethereum and Bitcoin Cash as next assets to the atomic swaps feature. 
 
+
+Atomis Roadmap: https://atomis.org/WalleX.pdf
+
+Mimblewimble Whitepaper: https://scalingbitcoin.org/papers/mimblewimble.txt
